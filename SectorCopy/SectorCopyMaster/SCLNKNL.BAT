@@ -1,0 +1,4 @@
+LINK C:SCDRVR+C:SCUTIL+C:SCERR+C:SCMAP+C:SCDATA,MK.EXE;
+EXE2BIN MK.EXE,MK.COM
+ERASE MK.EXE
+

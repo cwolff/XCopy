@@ -1,0 +1,26 @@
+
+
+          WELCOME TO SOFTWARE LABORATORIES' QUICK COPY
+
+
+
+   Quick Copy comes to you with both source and executable code.
+If you are new to the world of assembly language you will find
+Quick Copy will serve as a helpful learning aid. There are five
+source listings in Quick Copy they are: QCDRVR.ASM QCUTIL.ASM
+QCERR.ASM QCDATA.ASM and an include file QCDATA.INC. Each of the
+source modules contain comments to aid in your understanding of
+Quick Copy. Feel free to modify the code to suite your taste but
+be sure to keep an unmodified copy of QUICK COPY in case of difficulty
+with your development efforts.
+
+
+            IN order to use QUICK COPY place your
+            working diskette in drive a: and type
+
+                             QC 
+ 
+     QUICK COPY will prompt you as what further action to take.
+
+
+
